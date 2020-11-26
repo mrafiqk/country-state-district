@@ -28,7 +28,7 @@ let countries = country_state_district.getAllCountries();
 **Return value:**
 ```json
 [
-  { id: 1, name: 'India' }
+  { "id": 1, "name": "India" }
 ]
 ```
 
@@ -45,7 +45,7 @@ let states = country_state_district.getAllStates();
 **Return value:**
 ```json
 [
-  { id: 32, name: 'Tamil Nadu', country_id: 1 }
+  { "id": 32, "name": "Tamil Nadu", "country_id": 1 }
 ]
 ```
 
@@ -62,7 +62,7 @@ let states = country_state_district.getStatesByCountryId(1);
 **Return value:**
 ```json
 [
-  { id: 32, name: 'Tamil Nadu', country_id: 1 }
+  { "id": 32, "name": "Tamil Nadu", "country_id": 1 }
 ]
 ```
 
@@ -79,7 +79,7 @@ let districts = country_state_district.getAllDistricts();
 **Return value:**
 ```json
 [
-  { id: 32, name: 'Tamil Nadu', country_id: 1 }
+  { "id": 32, "name": "Tamil Nadu", "country_id": 1 }
 ]
 ```
 
@@ -96,6 +96,6 @@ let districts = country_state_district.getDistrictsByStateId(32);
 **Return value:**
 ```json
 [
-  { id: 578, name: 'Thoothukudi', state_id: 32 }
+  { "id": 578, "name": "Thoothukudi", "state_id": 32 }
 ]
 ```
