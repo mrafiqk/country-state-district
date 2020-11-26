@@ -21,12 +21,12 @@ describe('Validate Country State District Package', function() {
 
   it('get-all-districts', function() {
     let districts = country_state_district.getAllDistricts();
-    expect(districts).to.deep.include({ id: 99, district: 'Nalanda', state_id: 5 });
+    expect(districts).to.deep.include({ id: 99, name: 'Nalanda', state_id: 5 });
   });
 
   it('get-tamilnadu-districts', function() {
     let districts = country_state_district.getDistrictsByStateId(32);
-    expect(districts).to.deep.not.include({ id: 99, district: 'Nalanda', state_id: 5 });
-    expect(districts).to.deep.include({ id: 578, district: 'Thoothukudi', state_id: 32 });
+    expect(districts).to.deep.not.include({ id: 99, name: 'Nalanda', state_id: 5 });
+    expect(districts).to.deep.include({ id: 578, name: 'Thoothukudi', state_id: 32 });
   });
 });
