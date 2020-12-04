@@ -1,6 +1,6 @@
 {
   "name": "country_state_district",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "By this package you can get a list of countries, states and districts.",
   "main": "index.js",
   "scripts": {
@@ -14,9 +14,6 @@
   "license": "ISC",
   "directories": {
     "test": "tests"
-  },
-  "dependencies": {
-    "fs": "0.0.1-security"
   },
   "repository": {
     "type": "git",

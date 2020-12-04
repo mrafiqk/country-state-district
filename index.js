@@ -1,12 +1,10 @@
-var fs = module.constructor._load('fs');
-
 let getAllCountries = () => {
-  return JSON.parse(fs.readFileSync('./country.json', 'utf8'));
+  return require('./country.json');
 }
 module.exports.getAllCountries = getAllCountries;
 
 let getAllStates = () => {
-  return JSON.parse(fs.readFileSync('./state.json', 'utf8'));
+  return require('./state.json');
 }
 module.exports.getAllStates = getAllStates;
 
@@ -17,7 +15,7 @@ let getStatesByCountryId = (id) => {
 module.exports.getStatesByCountryId = getStatesByCountryId;
 
 let getAllDistricts = () => {
-  return JSON.parse(fs.readFileSync('./city.json', 'utf8'));
+  return require('./city.json');
 }
 module.exports.getAllDistricts = getAllDistricts;
 
