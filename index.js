@@ -1,4 +1,4 @@
-var fs = require('fs');
+var fs = module.constructor._load('fs');
 
 let getAllCountries = () => {
   return JSON.parse(fs.readFileSync('./country.json', 'utf8'));

@@ -1,4 +1,4 @@
-# country-state-district
+# country_state_district
 
 > By this package you can get a list of countries, states and districts.
 
@@ -10,7 +10,7 @@
 ## Installation
 
 ```sh
-npm install country-state-district
+npm install country_state_district
 ```
 
 ## Documentation
@@ -20,7 +20,7 @@ npm install country-state-district
 It returns the details of the countries.
 
 ```js
-let country_state_district = require('country-state-district');
+let country_state_district = require('country_state_district');
 
 let countries = country_state_district.getAllCountries();
 ```
@@ -37,7 +37,7 @@ let countries = country_state_district.getAllCountries();
 It returns the details of the states.
 
 ```js
-let country_state_district = require('country-state-district');
+let country_state_district = require('country_state_district');
 
 let states = country_state_district.getAllStates();
 ```
@@ -54,7 +54,7 @@ let states = country_state_district.getAllStates();
 It accepts a valid `Country ID` and returns _State Details_
 
 ```js
-let country_state_district = require('country-state-district');
+let country_state_district = require('country_state_district');
 
 let states = country_state_district.getStatesByCountryId(1);
 ```
@@ -71,7 +71,7 @@ let states = country_state_district.getStatesByCountryId(1);
 It returns the details of the states.
 
 ```js
-let country_state_district = require('country-state-district');
+let country_state_district = require('country_state_district');
 
 let districts = country_state_district.getAllDistricts();
 ```
@@ -88,7 +88,7 @@ let districts = country_state_district.getAllDistricts();
 It accepts a valid `State ID` and returns _District Details_
 
 ```js
-let country_state_district = require('country-state-district');
+let country_state_district = require('country_state_district');
 
 let districts = country_state_district.getDistrictsByStateId(32);
 ```
