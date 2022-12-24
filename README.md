@@ -96,6 +96,6 @@ let districts = country_state_district.getDistrictsByStateId(32);
 **Return value:**
 ```json
 [
-  { "id": 578, "en_name": "Thoothukudi", "mr_name": "थुथुकुडी", "hi_name": "Thoothukudi", "state_id": 32 }
+  { "id": 578, "en_name": "Thoothukudi", "mr_name": "थुथुकुडी", "hi_name": "थुथुकुडी", "state_id": 32 }
 ]
 ```
