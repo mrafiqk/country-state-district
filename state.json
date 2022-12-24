@@ -1,1 +1,261 @@
-[{"id":1,"name":"Andaman Nicobar","country_id":1},{"id":2,"name":"Andhra Pradesh","country_id":1},{"id":3,"name":"Arunachal Pradesh","country_id":1},{"id":4,"name":"Assam","country_id":1},{"id":5,"name":"Bihar","country_id":1},{"id":6,"name":"Chandigarh","country_id":1},{"id":7,"name":"Chhattisgarh","country_id":1},{"id":8,"name":"Dadra Nagar Haveli","country_id":1},{"id":9,"name":"Daman Diu","country_id":1},{"id":10,"name":"Delhi","country_id":1},{"id":11,"name":"Goa","country_id":1},{"id":12,"name":"Gujarat","country_id":1},{"id":13,"name":"Haryana","country_id":1},{"id":14,"name":"Himachal Pradesh","country_id":1},{"id":15,"name":"Jammu Kashmir","country_id":1},{"id":16,"name":"Jharkhand","country_id":1},{"id":17,"name":"Karnataka","country_id":1},{"id":18,"name":"Kerala","country_id":1},{"id":19,"name":"Lakshadweep","country_id":1},{"id":20,"name":"Ladakh","country_id":1},{"id":21,"name":"Madhya Pradesh","country_id":1},{"id":22,"name":"Maharashtra","country_id":1},{"id":23,"name":"Manipur","country_id":1},{"id":24,"name":"Meghalaya","country_id":1},{"id":25,"name":"Mizoram","country_id":1},{"id":26,"name":"Nagaland","country_id":1},{"id":27,"name":"Odisha","country_id":1},{"id":28,"name":"Puducherry","country_id":1},{"id":29,"name":"Punjab","country_id":1},{"id":30,"name":"Rajasthan","country_id":1},{"id":31,"name":"Sikkim","country_id":1},{"id":32,"name":"Tamil Nadu","country_id":1},{"id":33,"name":"Telangana","country_id":1},{"id":34,"name":"Tripura","country_id":1},{"id":35,"name":"Uttar Pradesh","country_id":1},{"id":36,"name":"Uttarakhand","country_id":1},{"id":37,"name":"West Bengal","country_id":1}]
+[
+    {
+        "id": 1,
+        "en_name": "Andaman Nicobar",
+        "hi_name": "अंडमान निकोबार",
+        "mr_name": "अंदमान निकोबार",
+        "country_id": 1
+    },
+    {
+        "id": 2,
+        "en_name": "Andhra Pradesh",
+        "hi_name": "आंध्र प्रदेश",
+        "mr_name": "आंध्र प्रदेश",
+        "country_id": 1
+    },
+    {
+        "id": 3,
+        "en_name": "Arunachal Pradesh",
+        "hi_name": "अरुणाचल प्रदेश",
+        "mr_name": "अरुणाचल प्रदेस",
+        "country_id": 1
+    },
+    {
+        "id": 4,
+        "en_name": "Assam",
+        "hi_name": "असम",
+        "mr_name": "असम",
+        "country_id": 1
+    },
+    {
+        "id": 5,
+        "en_name": "Bihar",
+        "hi_name": "बिहार",
+        "mr_name": "बिहार",
+        "country_id": 1
+    },
+    {
+        "id": 6,
+        "en_name": "Chandigarh",
+        "hi_name": "चंडीगढ़",
+        "mr_name": "चंडीगढ़",
+        "country_id": 1
+    },
+    {
+        "id": 7,
+        "en_name": "Chhattisgarh",
+        "hi_name": "छत्तीसगढ",
+        "mr_name": "छत्तीसगढ़",
+        "country_id": 1
+    },
+    {
+        "id": 8,
+        "en_name": "Dadra Nagar Haveli",
+        "hi_name": "दादरा नगर हवेली",
+        "mr_name": "दादरा नगर हवेली",
+        "country_id": 1
+    },
+    {
+        "id": 9,
+        "en_name": "Daman Diu",
+        "hi_name": "दमन दीव",
+        "mr_name": "दमण दीव",
+        "country_id": 1
+    },
+    {
+        "id": 10,
+        "en_name": "Delhi",
+        "hi_name": "दिल्ली",
+        "mr_name": "दिल्ली",
+        "country_id": 1
+    },
+    {
+        "id": 11,
+        "en_name": "Goa",
+        "hi_name": "गोवा",
+        "mr_name": "गोवा",
+        "country_id": 1
+    },
+    {
+        "id": 12,
+        "en_name": "Gujarat",
+        "hi_name": "गुजरात",
+        "mr_name": "गुजरात",
+        "country_id": 1
+    },
+    {
+        "id": 13,
+        "en_name": "Haryana",
+        "hi_name": "हरियाणा",
+        "mr_name": "हरियाणा",
+        "country_id": 1
+    },
+    {
+        "id": 14,
+        "en_name": "Himachal Pradesh",
+        "hi_name": "हिमाचल प्रदेश",
+        "mr_name": "हिमाचल प्रदेश",
+        "country_id": 1
+    },
+    {
+        "id": 15,
+        "en_name": "Jammu Kashmir",
+        "hi_name": "जम्मू कश्मीर",
+        "mr_name": "जम्मू कश्मीर",
+        "country_id": 1
+    },
+    {
+        "id": 16,
+        "en_name": "Jharkhand",
+        "hi_name": "झारखंड",
+        "mr_name": "झारखंड",
+        "country_id": 1
+    },
+    {
+        "id": 17,
+        "en_name": "Karnataka",
+        "hi_name": "कर्नाटक",
+        "mr_name": "कर्नाटक",
+        "country_id": 1
+    },
+    {
+        "id": 18,
+        "en_name": "Kerala",
+        "hi_name": "केरल",
+        "mr_name": "केरळ",
+        "country_id": 1
+    },
+    {
+        "id": 19,
+        "en_name": "Lakshadweep",
+        "hi_name": "लक्षद्वीप",
+        "mr_name": "लक्षद्वीप",
+        "country_id": 1
+    },
+    {
+        "id": 20,
+        "en_name": "Ladakh",
+        "hi_name": "लदाख",
+        "mr_name": "लडाख",
+        "country_id": 1
+    },
+    {
+        "id": 21,
+        "en_name": "Madhya Pradesh",
+        "hi_name": "मध्य प्रदेश",
+        "mr_name": "मध्य प्रदेश",
+        "country_id": 1
+    },
+    {
+        "id": 22,
+        "en_name": "Maharashtra",
+        "hi_name": "महाराष्ट्र",
+        "mr_name": "महाराष्ट्र",
+        "country_id": 1
+    },
+    {
+        "id": 23,
+        "en_name": "Manipur",
+        "hi_name": "मणिपुर",
+        "mr_name": "मणिपूर",
+        "country_id": 1
+    },
+    {
+        "id": 24,
+        "en_name": "Meghalaya",
+        "hi_name": "मेघालय",
+        "mr_name": "मेघालय",
+        "country_id": 1
+    },
+    {
+        "id": 25,
+        "en_name": "Mizoram",
+        "hi_name": "मिजोरम",
+        "mr_name": "मिझोराम",
+        "country_id": 1
+    },
+    {
+        "id": 26,
+        "en_name": "Nagaland",
+        "hi_name": "नगालैंड",
+        "mr_name": "नागालँड",
+        "country_id": 1
+    },
+    {
+        "id": 27,
+        "en_name": "Odisha",
+        "hi_name": "ओडिशा",
+        "mr_name": "ओडिशा",
+        "country_id": 1
+    },
+    {
+        "id": 28,
+        "en_name": "Puducherry",
+        "hi_name": "पुदुचेरी",
+        "mr_name": "पुद्दुचेरी",
+        "country_id": 1
+    },
+    {
+        "id": 29,
+        "en_name": "Punjab",
+        "hi_name": "पंजाब",
+        "mr_name": "पंजाब",
+        "country_id": 1
+    },
+    {
+        "id": 30,
+        "en_name": "Rajasthan",
+        "hi_name": "राजस्थान",
+        "mr_name": "राजस्थान",
+        "country_id": 1
+    },
+    {
+        "id": 31,
+        "en_name": "Sikkim",
+        "hi_name": "सिक्किम",
+        "mr_name": "सिक्कीम",
+        "country_id": 1
+    },
+    {
+        "id": 32,
+        "en_name": "Tamil Nadu",
+        "hi_name": "तमिलनाडु",
+        "mr_name": "तामिळनाडू",
+        "country_id": 1
+    },
+    {
+        "id": 33,
+        "en_name": "Telangana",
+        "hi_name": "तेलंगाना",
+        "mr_name": "तेलंगणा",
+        "country_id": 1
+    },
+    {
+        "id": 34,
+        "en_name": "Tripura",
+        "hi_name": "त्रिपुरा",
+        "mr_name": "त्रिपुरा",
+        "country_id": 1
+    },
+    {
+        "id": 35,
+        "en_name": "Uttar Pradesh",
+        "hi_name": "उत्तर प्रदेश",
+        "mr_name": "उत्तर प्रदेश",
+        "country_id": 1
+    },
+    {
+        "id": 36,
+        "en_name": "Uttarakhand",
+        "hi_name": "उत्तराखंड",
+        "mr_name": "उत्तराखंड",
+        "country_id": 1
+    },
+    {
+        "id": 37,
+        "en_name": "West Bengal",
+        "hi_name": "पश्चिम बंगाल",
+        "mr_name": "पश्चिम बंगाल",
+        "country_id": 1
+    }
+]
