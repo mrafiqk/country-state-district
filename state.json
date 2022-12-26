@@ -1,6 +1,7 @@
 [
     {
         "id": 1,
+        "name": "Andaman Nicobar",
         "en_name": "Andaman Nicobar",
         "hi_name": "अंडमान निकोबार",
         "mr_name": "अंदमान निकोबार",
@@ -8,6 +9,7 @@
     },
     {
         "id": 2,
+        "name": "Andhra Pradesh",
         "en_name": "Andhra Pradesh",
         "hi_name": "आंध्र प्रदेश",
         "mr_name": "आंध्र प्रदेश",
@@ -15,6 +17,7 @@
     },
     {
         "id": 3,
+        "name": "Arunachal Pradesh",
         "en_name": "Arunachal Pradesh",
         "hi_name": "अरुणाचल प्रदेश",
         "mr_name": "अरुणाचल प्रदेस",
@@ -22,6 +25,7 @@
     },
     {
         "id": 4,
+        "name": "Assam",
         "en_name": "Assam",
         "hi_name": "असम",
         "mr_name": "असम",
@@ -29,6 +33,7 @@
     },
     {
         "id": 5,
+        "name": "Bihar",
         "en_name": "Bihar",
         "hi_name": "बिहार",
         "mr_name": "बिहार",
@@ -36,6 +41,7 @@
     },
     {
         "id": 6,
+        "name": "Chandigarh",
         "en_name": "Chandigarh",
         "hi_name": "चंडीगढ़",
         "mr_name": "चंडीगढ़",
@@ -43,6 +49,7 @@
     },
     {
         "id": 7,
+        "name": "Chhattisgarh",
         "en_name": "Chhattisgarh",
         "hi_name": "छत्तीसगढ",
         "mr_name": "छत्तीसगढ़",
@@ -50,6 +57,7 @@
     },
     {
         "id": 8,
+        "name": "Dadra Nagar Haveli",
         "en_name": "Dadra Nagar Haveli",
         "hi_name": "दादरा नगर हवेली",
         "mr_name": "दादरा नगर हवेली",
@@ -57,6 +65,7 @@
     },
     {
         "id": 9,
+        "name": "Daman Diu",
         "en_name": "Daman Diu",
         "hi_name": "दमन दीव",
         "mr_name": "दमण दीव",
@@ -64,6 +73,7 @@
     },
     {
         "id": 10,
+        "name": "Delhi",
         "en_name": "Delhi",
         "hi_name": "दिल्ली",
         "mr_name": "दिल्ली",
@@ -71,6 +81,7 @@
     },
     {
         "id": 11,
+        "name": "Goa",
         "en_name": "Goa",
         "hi_name": "गोवा",
         "mr_name": "गोवा",
@@ -78,6 +89,7 @@
     },
     {
         "id": 12,
+        "name": "Gujarat",
         "en_name": "Gujarat",
         "hi_name": "गुजरात",
         "mr_name": "गुजरात",
@@ -85,6 +97,7 @@
     },
     {
         "id": 13,
+        "name": "Haryana",
         "en_name": "Haryana",
         "hi_name": "हरियाणा",
         "mr_name": "हरियाणा",
@@ -92,6 +105,7 @@
     },
     {
         "id": 14,
+        "name": "Himachal Pradesh",
         "en_name": "Himachal Pradesh",
         "hi_name": "हिमाचल प्रदेश",
         "mr_name": "हिमाचल प्रदेश",
@@ -99,6 +113,7 @@
     },
     {
         "id": 15,
+        "name": "Jammu Kashmir",
         "en_name": "Jammu Kashmir",
         "hi_name": "जम्मू कश्मीर",
         "mr_name": "जम्मू कश्मीर",
@@ -106,6 +121,7 @@
     },
     {
         "id": 16,
+        "name": "Jharkhand",
         "en_name": "Jharkhand",
         "hi_name": "झारखंड",
         "mr_name": "झारखंड",
@@ -113,6 +129,7 @@
     },
     {
         "id": 17,
+        "name": "Karnataka",
         "en_name": "Karnataka",
         "hi_name": "कर्नाटक",
         "mr_name": "कर्नाटक",
@@ -120,6 +137,7 @@
     },
     {
         "id": 18,
+        "name": "Kerala",
         "en_name": "Kerala",
         "hi_name": "केरल",
         "mr_name": "केरळ",
@@ -127,6 +145,7 @@
     },
     {
         "id": 19,
+        "name": "Lakshadweep",
         "en_name": "Lakshadweep",
         "hi_name": "लक्षद्वीप",
         "mr_name": "लक्षद्वीप",
@@ -134,6 +153,7 @@
     },
     {
         "id": 20,
+        "name": "Ladakh",
         "en_name": "Ladakh",
         "hi_name": "लदाख",
         "mr_name": "लडाख",
@@ -141,6 +161,7 @@
     },
     {
         "id": 21,
+        "name": "Madhya Pradesh",
         "en_name": "Madhya Pradesh",
         "hi_name": "मध्य प्रदेश",
         "mr_name": "मध्य प्रदेश",
@@ -148,6 +169,7 @@
     },
     {
         "id": 22,
+        "name": "Maharashtra",
         "en_name": "Maharashtra",
         "hi_name": "महाराष्ट्र",
         "mr_name": "महाराष्ट्र",
@@ -155,6 +177,7 @@
     },
     {
         "id": 23,
+        "name": "Manipur",
         "en_name": "Manipur",
         "hi_name": "मणिपुर",
         "mr_name": "मणिपूर",
@@ -162,6 +185,7 @@
     },
     {
         "id": 24,
+        "name": "Meghalaya",
         "en_name": "Meghalaya",
         "hi_name": "मेघालय",
         "mr_name": "मेघालय",
@@ -169,6 +193,7 @@
     },
     {
         "id": 25,
+        "name": "Mizoram",
         "en_name": "Mizoram",
         "hi_name": "मिजोरम",
         "mr_name": "मिझोराम",
@@ -176,6 +201,7 @@
     },
     {
         "id": 26,
+        "name": "Nagaland",
         "en_name": "Nagaland",
         "hi_name": "नगालैंड",
         "mr_name": "नागालँड",
@@ -183,6 +209,7 @@
     },
     {
         "id": 27,
+        "name": "Odisha",
         "en_name": "Odisha",
         "hi_name": "ओडिशा",
         "mr_name": "ओडिशा",
@@ -190,6 +217,7 @@
     },
     {
         "id": 28,
+        "name": "Puducherry",
         "en_name": "Puducherry",
         "hi_name": "पुदुचेरी",
         "mr_name": "पुद्दुचेरी",
@@ -197,6 +225,7 @@
     },
     {
         "id": 29,
+        "name": "Punjab",
         "en_name": "Punjab",
         "hi_name": "पंजाब",
         "mr_name": "पंजाब",
@@ -204,6 +233,7 @@
     },
     {
         "id": 30,
+        "name": "Rajasthan",
         "en_name": "Rajasthan",
         "hi_name": "राजस्थान",
         "mr_name": "राजस्थान",
@@ -211,6 +241,7 @@
     },
     {
         "id": 31,
+        "name": "Sikkim",
         "en_name": "Sikkim",
         "hi_name": "सिक्किम",
         "mr_name": "सिक्कीम",
@@ -218,6 +249,7 @@
     },
     {
         "id": 32,
+        "name": "Tamil Nadu",
         "en_name": "Tamil Nadu",
         "hi_name": "तमिलनाडु",
         "mr_name": "तामिळनाडू",
@@ -225,6 +257,7 @@
     },
     {
         "id": 33,
+        "name": "Telangana",
         "en_name": "Telangana",
         "hi_name": "तेलंगाना",
         "mr_name": "तेलंगणा",
@@ -232,6 +265,7 @@
     },
     {
         "id": 34,
+        "name": "Tripura",
         "en_name": "Tripura",
         "hi_name": "त्रिपुरा",
         "mr_name": "त्रिपुरा",
@@ -239,6 +273,7 @@
     },
     {
         "id": 35,
+        "name": "Uttar Pradesh",
         "en_name": "Uttar Pradesh",
         "hi_name": "उत्तर प्रदेश",
         "mr_name": "उत्तर प्रदेश",
@@ -246,6 +281,7 @@
     },
     {
         "id": 36,
+        "name": "Uttarakhand",
         "en_name": "Uttarakhand",
         "hi_name": "उत्तराखंड",
         "mr_name": "उत्तराखंड",
@@ -253,6 +289,7 @@
     },
     {
         "id": 37,
+        "name": "West Bengal",
         "en_name": "West Bengal",
         "hi_name": "पश्चिम बंगाल",
         "mr_name": "पश्चिम बंगाल",
