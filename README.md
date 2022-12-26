@@ -45,7 +45,7 @@ let states = country_state_district.getAllStates();
 **Return value:**
 ```json
 [
-  { "id": 32, "en_name": "Tamil Nadu", "hi_name": "तमिलनाडु", "mr_name": "तामिळनाडू", "country_id": 1 }
+  { "id": 32, "name": "Tamil Nadu", "en_name": "Tamil Nadu", "hi_name": "तमिलनाडु", "mr_name": "तामिळनाडू", "country_id": 1 }
 ]
 ```
 
@@ -62,7 +62,7 @@ let states = country_state_district.getStatesByCountryId(1);
 **Return value:**
 ```json
 [
-  { "id": 32, "en_name": "Tamil Nadu", "hi_name": "तमिलनाडु", "mr_name": "तामिळनाडू", "country_id": 1 }
+  { "id": 32, "name": "Tamil Nadu", "en_name": "Tamil Nadu", "hi_name": "तमिलनाडु", "mr_name": "तामिळनाडू", "country_id": 1 }
 ]
 ```
 
@@ -79,7 +79,7 @@ let districts = country_state_district.getAllDistricts();
 **Return value:**
 ```json
 [
-    { "id": 32, "en_name": "Tamil Nadu", "hi_name": "तमिलनाडु", "mr_name": "तामिळनाडू", "country_id": 1 }
+    { "id": 32, "name": "Tamil Nadu", "en_name": "Tamil Nadu", "hi_name": "तमिलनाडु", "mr_name": "तामिळनाडू", "country_id": 1 }
 ]
 ```
 
@@ -96,6 +96,6 @@ let districts = country_state_district.getDistrictsByStateId(32);
 **Return value:**
 ```json
 [
-  { "id": 578, "en_name": "Thoothukudi", "mr_name": "थुथुकुडी", "hi_name": "थुथुकुडी", "state_id": 32 }
+  { "id": 578, "name": "Thoothukudi", "en_name": "Thoothukudi", "mr_name": "थुथुकुडी", "hi_name": "थुथुकुडी", "state_id": 32 }
 ]
 ```
