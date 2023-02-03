@@ -1,6 +1,6 @@
 {
   "name": "country_state_district",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "By this package you can get a list of countries, states and districts.",
   "main": "index.js",
   "scripts": {
