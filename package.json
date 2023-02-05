@@ -1,10 +1,11 @@
 {
   "name": "country_state_district",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "By this package you can get a list of countries, states and districts.",
   "main": "index.js",
   "scripts": {
-    "test": "mocha tests/*.js -R spec --ui bdd --timeout 5000"
+    "test": "mocha tests/*.js -R spec --ui bdd --timeout 5000",
+    "build": "npx -p typescript tsc index.js --declaration --allowJs --emitDeclarationOnly"
   },
   "devDependencies": {
     "chai": "^4.2.0",

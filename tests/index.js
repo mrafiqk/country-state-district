@@ -1,8 +1,9 @@
 'use strict';
 
 let expect = require('chai').expect;
-let country_state_district = require('../index');
+let { CountryStateDistrict } = require('../index');
 
+let country_state_district = new CountryStateDistrict();
 describe('Validate Country State District Package', function() {
   it('get-all-countries', function() {
     let countries = country_state_district.getAllCountries();

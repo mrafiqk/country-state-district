@@ -1,30 +1,28 @@
-let getAllCountries = () => {
-  return require('./country.json');
-}
-module.exports.getAllCountries = getAllCountries;
+class CountryStateDistrict {
+  getAllCountries = () => {
+    return require('./country.json');
+  }
 
-let getAllStates = () => {
-  return require('./state.json');
-}
-module.exports.getAllStates = getAllStates;
+  getAllStates = () => {
+    return require('./state.json');
+  }
 
-let getStatesByCountryId = (id) => {
-  let states = indexBy(getAllStates(), 'country_id');
-  return states[id];
-}
-module.exports.getStatesByCountryId = getStatesByCountryId;
+  getStatesByCountryId = (id) => {
+    let states = indexBy(this.getAllStates(), 'country_id');
+    return states[id];
+  }
 
-let getAllDistricts = () => {
-  return require('./city.json');
-}
-module.exports.getAllDistricts = getAllDistricts;
+  getAllDistricts = () => {
+    return require('./city.json');
+  }
 
-let getDistrictsByStateId = (id) => {
-  let district = indexBy(getAllDistricts(), 'state_id');
-  return district[id];
+  getDistrictsByStateId = (id) => {
+    let district = indexBy(this.getAllDistricts(), 'state_id');
+    return district[id];
+  }
 }
-module.exports.getDistrictsByStateId = getDistrictsByStateId;
 
+module.exports = { CountryStateDistrict }
 
 let indexBy = (array_val, key) => {
   let returnVal = {};
